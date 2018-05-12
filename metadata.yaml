@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '5134'
     url: http://www.gutenberg.org/2009/agents/5134
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13569#Tractus-de-Hermaphrodites--Or-A-Treatise-of-Hermaphrodites
 gutenberg_issued: '2004-10-01'
 gutenberg_type: Text
 identifiers:
